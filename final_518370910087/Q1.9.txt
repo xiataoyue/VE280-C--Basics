@@ -1,0 +1,1 @@
+It violates the rule of ownership, because it always changes the address of ip, but it has been inserted into the stack.

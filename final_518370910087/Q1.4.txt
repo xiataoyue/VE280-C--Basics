@@ -1,0 +1,5 @@
+We can multiply the last two element of the two vectors and then use the pop_back() command to remove the last element, then repeat the above procedural until there is no element left in the vector.
+If the numbers of elements in the two vectors are different, we should throw an exception.
+
+or just use the expression:
+double Vector<double>::operator*(const Vector<double> &v);

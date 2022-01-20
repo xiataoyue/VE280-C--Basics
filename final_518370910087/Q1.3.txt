@@ -1,0 +1,1 @@
+Yes, because anytime A::f() is expected to run, the argument to that will work properly with B::f() since the precondition is weakened.
