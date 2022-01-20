@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/my_stack.h
+my_stack_impl.h
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/my_stack_impl.h
+
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/my_stack_impl.h
+iostream
+-
+my_stack.h
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/my_stack.h
+
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/test.cpp
+iostream
+-
+my_stack.h
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/my_stack.h
+

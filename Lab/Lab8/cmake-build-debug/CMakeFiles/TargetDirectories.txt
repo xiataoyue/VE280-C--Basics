@@ -1,0 +1,3 @@
+C:/Users/James Xia/Desktop/Ve280/Lab8/cmake-build-debug/CMakeFiles/Lab8.dir
+C:/Users/James Xia/Desktop/Ve280/Lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/James Xia/Desktop/Ve280/Lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

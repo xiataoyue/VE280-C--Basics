@@ -1,0 +1,3 @@
+C:/Users/James Xia/Desktop/Ve280/Lab7/lab7_starter_files/cmake-build-debug/CMakeFiles/lab7_starter_files.dir
+C:/Users/James Xia/Desktop/Ve280/Lab7/lab7_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/James Xia/Desktop/Ve280/Lab7/lab7_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir

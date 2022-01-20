@@ -1,0 +1,4 @@
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/cmake-build-debug/CMakeFiles/lab10.dir
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/cmake-build-debug/CMakeFiles/lab10_starter_files.dir
+C:/Users/James Xia/Desktop/Ve280/lab10/lab10_starter_files/cmake-build-debug/CMakeFiles/edit_cache.dir
